@@ -20,16 +20,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="h\copy_to_startup_folder.h">
+    <ClInclude Include="headers\copy_to_startup_folder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="h\export_registry_backup.h">
+    <ClInclude Include="headers\export_registry_backup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="h\modify_registry_keys.h">
+    <ClInclude Include="headers\modify_registry_keys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="h\registry_keys.h">
+    <ClInclude Include="headers\registry_keys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
