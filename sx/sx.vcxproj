@@ -122,10 +122,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="h\copy_to_startup_folder.h" />
-    <ClInclude Include="h\export_registry_backup.h" />
-    <ClInclude Include="h\modify_registry_keys.h" />
-    <ClInclude Include="h\registry_keys.h" />
+    <ClInclude Include="headers\copy_to_startup_folder.h" />
+    <ClInclude Include="headers\export_registry_backup.h" />
+    <ClInclude Include="headers\modify_registry_keys.h" />
+    <ClInclude Include="headers\registry_keys.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
