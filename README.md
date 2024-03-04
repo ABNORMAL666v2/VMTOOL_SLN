@@ -1,6 +1,5 @@
 <h1>SneakyVM</h1>
-for the love of god i hate c++
-<br>
+<p>for the love of god i hate c++</p>
 <h4>See License</h4>
 <a href="ABNGSPLV1.md">ABNGSPLV1</a>
 <h4>Credits:</h4>
