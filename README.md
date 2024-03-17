@@ -5,4 +5,4 @@
 <h4>Credits:</h4>
 <a href="https://github.com/obrobrio2000/SafeExamPwner">Safe exam pwner</a> for the registry keys
 
-<b>honestly, do whatever with this use it however idc im not updating it</b>
+<b>honestly, do whatever with this use it however. idc im not updating it</b>
