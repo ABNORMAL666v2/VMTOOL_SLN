@@ -1,4 +1,4 @@
-# ABN General Software License v1.0
+# ABN General Software License v1.1
 
 This ABN General Software License ("ABNGSPLV1") is a legal agreement
 entered into by and between the author ("Licensor") and the individual or entity utilizing the code under this license ("Licensee").
@@ -34,3 +34,8 @@ software built using this source code or executable binary.
 
 This Agreement shall be governed by and construed in accordance with the laws of The United States of America. 
 By using the source code or executable binary, Licensee agrees to be bound by the terms of this Agreement.
+
+# Section B: Modification of license
+
+## 1) Do whatever, this licenese doesnt apply
+## 2) Same as Section 1) non commercial ONLY
