@@ -1,14 +1,22 @@
-# ABN General Software License v1.1
+# Abnormal General Software License v2 (ABGSL2)
 
-This ABN General Software License ("ABNGSPLV1") is a legal agreement
+This Abnormal General Software License ("ABGSLV2") is a legal agreement
 entered into by and between the author ("Licensor") and the individual or entity utilizing the code under this license ("Licensee").
 
+# Terms
 ## 1. License Grant
 
-Licensor hereby grants Licensee a non-exclusive, worldwide, royalty-free license to use, 
-copy, modify, merge, publish, and distribute copies of the source code under this 
-license for strictly non-commercial purposes. The source code must be made open under the same license 
-(unless explicitly stated otherwise by the original authoring party(s)), and all authoring parties must be duly credited.
+
+Licensor hereby grants Licensee a non-exclusive, worldwide, royalty-free license to utilize, duplicate, adapt, integrate, publish, and disseminate copies of the source code under this license strictly for non-commercial purposes. For any commercial use of this source code, Licensee must obtain explicit approval from the Licensor through a formal contract.
+
+Any alterations made to the source code must be released as open-source, with proper acknowledgment given to all contributing parties.
+
+Moreover, any closed-source adaptations of this source code (whether commercial or otherwise) must include a publicly accessible acknowledgment section in the following format:
+```
+This software has components obtained from [url of repository], originally authored under ABGSLV2 from [code author]
+```
+
+
 
 ## 2. No Warranty
 
@@ -35,7 +43,4 @@ software built using this source code or executable binary.
 This Agreement shall be governed by and construed in accordance with the laws of The United States of America. 
 By using the source code or executable binary, Licensee agrees to be bound by the terms of this Agreement.
 
-# Section B: Modification of license
 
-## 1) Do whatever, this licenese doesnt apply
-## 2) Same as Section 1) non commercial ONLY
